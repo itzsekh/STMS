@@ -1,0 +1,5 @@
+# Ignore configuration files	jquery-te-1.4.0.css
+
+# Ignore directories
+	/logs/	/assets/
+	/temp/
